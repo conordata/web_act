@@ -1,0 +1,58 @@
+section {
+    padding: 30px;
+}
+.logo {
+    padding-right: 50px;
+}
+
+.img-size img {
+    width: 280px;
+    height: 210px;
+    padding: 15px;
+}
+
+.img1-size img {
+    width: 100%;
+    height: 360px;
+    padding: 15px;
+}
+
+.gal-img-size img {
+    width: 100%;
+    height: 300px;
+    padding: 15px;
+}
+
+.pad-frame p, h3 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.padding div {
+    padding: 20px 15px 15px 15px;
+}
+
+.div-right {
+    padding-left: 40px;
+}
+
+.table table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.footer {
+    padding-top: 10px;
+    background-color: blue;
+}
